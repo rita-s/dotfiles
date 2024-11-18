@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
-	name = "gh api user/emails | jq -r '.[].email'  # Select one email from the output"
+	email = rita_s@mail.com
+	name = Rita Starzyk
